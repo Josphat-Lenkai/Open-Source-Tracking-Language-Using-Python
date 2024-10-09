@@ -23,8 +23,7 @@ Ensure you have the following prerequisites installed:
 
 1. Clone the repository:
    
-git clone https://github.com/SEcodes/GROUP-C---Open-Source-Language-Tracking-System.git
-cd GROUP-C---Open-Source-Language-Tracking-System
+git clone https://github.com/Josphat-Lenkai/Open-Source-Tracking-Language-Using-Python
 
 2. Install reguirements
 
